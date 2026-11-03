@@ -1,0 +1,6 @@
+{
+  "name": "MaidEase - Home Staff Attendance & Salary Tracker",
+  "description": "Comprehensive home staff and maid attendance management app to track present/absent days, shifts, salaries, advances, and monthly reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
